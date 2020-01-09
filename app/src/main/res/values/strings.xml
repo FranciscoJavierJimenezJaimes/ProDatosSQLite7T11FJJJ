@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">DatosSQLiteFJJJ</string>
+    <string name="agregar">AGREGAR</string>
+    <string name="eliminar">ELIMINAR</string>
+    <string name="actualizar">ACTUALIZAR</string>
+    <string name="id">Id</string>
+    <string name="nombre">Nombre</string>
+    <string name="edad">Edad</string>
+    <string name="correo">Correo</string>
+    <string name="curp">Curp</string>
+    <string name="ingnombre">Ingresa tu nombre</string>
+    <string name="ingedad">Ingresa tu edad</string>
+    <string name="ingcorreo">Ingresa tu correo</string>
+    <string name="ingcurp">Ingresa tu curp</string>
+    <string name="back">Menu principal</string>
+    <string name="consulta">REGISTROS</string>
+    <string name="btnlista">Lista</string>
+    <string name="btnagregar">Agregar</string>
+    <string name="btninsertar">Insertar</string>
+    <string name="btneliminar">Eliminar</string>
+    <string name="btnupdate">Actualizar</string>
+    <string name="txtnombre">Ingresa tu nombre</string>
+    <string name="txtedad">Ingresa tu edad</string>
+    <string name="txtcorreo">Ingresa tu correo</string>
+    <string name="txtcurp">Ingresa tu curp</string>
+    <string name="guardar">Guardar datos</string>
+    <string name="regresar">Menu principal</string>
+    <string name="txtid">Ingresa un id</string>
+    <string name="titleid">tu Id</string>
+    <string name="titlenombre">tu Nombre</string>
+    <string name="titleedad">tu Edad</string>
+    <string name="titlecorreo">tu correo</string>
+    <string name="titlecurp">tu curp</string>
+    <string name="btnback">Menu principal</string>
+    <string name="titlemostrar">Listado</string>
+    <string name="ingnom">Ingresa nombre</string>
+    <string name="ingim">Seleccionar Imagen</string>
+
+    <string name="btnadd">Agregar</string>
+    <string name="btnsel">Mostrar</string>
+    <string name="btnupd">Actualizar</string>
+    <string name="btndel">Eliminar</string>
+
+    <string name="acercade">Acerca de</string>
+    <string name="app">DatosSQLite</string>
+    <string name="version">Version        1.0</string>
+    <string name="Asignatura">Desarrollo de Aplicaciones para Dispositivos Móviles</string>
+    <string name="Estudiante">Francisco Javier Jiménez Jaimes</string>
+    <string name="Grupo">Grupo:           7T11</string>
+    <string name="Docente">Docente: </string>
+    <string name="Dname">Victor Hugo Martínez de la O</string>
+    <string name="Est">Desarrollado por: </string>
+    <string name="tec">Tecnológico:  </string>
+    <string name="teso">Tecnológico de Estudios Superiores Oriente del Estado de México </string>
+
+    <string name="proyec">SQLite Agenda(CRUD) </string>
+    <string name="namepro">Proyecto</string>
+
+
+</resources>
